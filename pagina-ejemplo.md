@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pagina-ejemplo
+title: Pagina Ejemplo
 permalink: /pagina-ejemplo/
 ---
 
