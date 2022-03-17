@@ -8,7 +8,7 @@ permalink: /pagina-ejemplo/
 Me llamo Zakariya y esto es una página de ejemplo y prueba con markdown.
 
 Esto es una imagen de prueba.
-![]({{ site.url }}./img/Captura%20de%20pantalla%202022-03-06%20152621.png)
+![]({{ site.url }}/img/Captura%20de%20pantalla%202022-03-06%20152621.png)
 
 
 
