@@ -3,6 +3,9 @@
 ## Práctica para crear un blog de ejemplo con Jekyll y GitHub Pages.
 ---
 
+    Sitio: https://legofzhak.github.io/
+    ![Sitio](./img/inicioje.PNG)
+
 1. Este comando nos permite crear la estructura de directorios y los archivos necesarios de un nuevo proyecto Jekyll.
 
     ```
